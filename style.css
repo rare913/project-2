@@ -1,0 +1,41 @@
+body {
+    margin-top: 50px;
+    background-image: url(./wp1836701-aesthetic-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Arial', sans-serif;
+
+}
+
+h2 {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cyan;
+}
+
+p {
+    color: rgb(5, 255, 109);
+}
+
+table {
+    font-size: x-large;
+    margin: auto;
+    width: 60%;
+    height: 200px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+}
+
+.main {
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
